@@ -1,4 +1,4 @@
-# API Minimalista de Tareas (.NET + SQLite)
+# Proyecto-miniminalista-API-tareas
 
 Este proyecto es una API minimalista desarrollada en .NET que permite gestionar tareas (crear, listar, actualizar y eliminar) usando Entity Framework Core con una base de datos SQLite. Incluye documentación interactiva con Swagger.
 
